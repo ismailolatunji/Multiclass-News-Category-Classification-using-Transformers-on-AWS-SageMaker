@@ -8,6 +8,10 @@
 - 📂 Entertainment (Movies, celebrities, culture)
 
 **This isn’t magic, it’s AI working for you.**
+
+
+![deepseek_mermaid_20250612_f6bf62](https://github.com/user-attachments/assets/9a197b60-3b86-4c95-9aaf-358967fad407)
+
 ---
 
 ## ❓ Why This Matters
